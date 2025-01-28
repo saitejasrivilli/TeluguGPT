@@ -1,0 +1,7 @@
+streamlit
+groq
+kagglehub
+transformers
+sentence-transformers
+faiss-cpu
+datasets
