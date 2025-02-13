@@ -91,7 +91,7 @@ streamlit run app.py
 ## **Demo**
 
 You can access the deployed app at:  
-[Live Demo](https://your-username-telugu-rag.streamlit.app)
+[Live Demo](https://telugugpt.streamlit.app)
 
 ---
 
